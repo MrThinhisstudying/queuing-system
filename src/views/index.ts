@@ -2,7 +2,7 @@ export * from './ErrorPage'
 export * from './ForgotPassword'
 export * from './Login'
 export * from './Home'
-export * from './Dashboard'
+export * from './Dashboard/Dashboard'
 export * from './Devices';
 export * from './Service';
 export * from './CapSo';

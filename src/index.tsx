@@ -7,7 +7,8 @@ import {
 } from "react-router-dom";
 
 import { DefaultLayout } from './layouts';
-import { ErrorPage, Login, ForgotPassword, Home, Dashboard, Devices, Service, CapSo, Report } from './views';
+import { ErrorPage, Login, ForgotPassword, Home, Devices, Service, CapSo, Report } from './views';
+import Dashboard from './views/Dashboard/Dashboard';
 import store from './store/store';
 import { Provider } from 'react-redux/es/exports';
 
