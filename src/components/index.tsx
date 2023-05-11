@@ -5,3 +5,4 @@ export * from './Button';
 export * from './Menubar';
 export * from './InputTypeDisable';
 export * from './Notification';
+export * from './Table';
